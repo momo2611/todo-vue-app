@@ -1,6 +1,6 @@
 # A Vue 3 + Vite Todo App Project
 
-<img src="./assets/todo-preview.png"></img>
+<img src="./src/assets/todo-preview.png"></img>
 
  ## Small project i learn from youtube toturial to use storage 
  ### Down here you will find the youTube videos. [Video](https://www.youtube.com/watch?v=qhjxAP1hFuI).
